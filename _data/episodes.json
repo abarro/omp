@@ -1,0 +1,20 @@
+{
+   "favorites":[
+      {
+      	"podcast_id":1,
+         "title":"nome do podcast1",
+         "link":"link do podcast1"
+      },
+      {
+      	"podcast_id":1,
+         "title":"nome do podcast2",
+         "link":"http://www.thisamericanlife.org/"
+      },
+      {
+         "podcast_id":2,
+         "title":"nome do podcast3",
+         "link":"link do podcast3"
+      }
+
+   ]
+}

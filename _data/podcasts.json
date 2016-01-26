@@ -1,0 +1,13 @@
+{
+	"podcasts": [{
+		"id": 1,
+		"name": "This American Life",
+		"site": "http://www.thisamericanlife.org/",
+		"itunes_link": ""
+	}, {
+		"id": 2,
+		"name": "Snap",
+		"site": "http://www.thisamericanlife.org/",
+		"itunes_link": ""
+	}]
+}

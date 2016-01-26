@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Os melhores Podcasts
+email: abarro@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Eu amo podcasts. Neste site eu listo o que eu considero ser os melhores episódios.
+  Meu critério do que é um bom episódio: 
+  1- Muda minha visão de mundo.
+  2- Explora a condição humana.
+  3- Me tira um pouco do meu poço de ignorância.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://osmelhorespodcasts.com.br" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
