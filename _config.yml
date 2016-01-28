@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
   1- Muda minha visão de mundo.
   2- Explora a condição humana.
   3- Me tira um pouco do meu poço de ignorância.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://osmelhorespodcasts.com.br" # the base hostname & protocol for your site
+baseurl: "/omp/" # the subpath of your site, e.g. /blog
+url: "http://abarro.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
