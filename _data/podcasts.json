@@ -4,10 +4,23 @@
 		"name": "This American Life",
 		"site": "http://www.thisamericanlife.org/",
 		"itunes_link": ""
-	}, {
+	},
+
+	{
 		"id": 2,
-		"name": "Snap",
-		"site": "http://www.thisamericanlife.org/",
+		"name": "Snap Judgement",
+		"site": "http://snapjudgment.org/",
 		"itunes_link": ""
-	}]
+	},
+
+	{
+		"id": 3,
+		"name": "99% Invisible",
+		"site": "http://99percentinvisible.org/",
+		"itunes_link": ""
+	},
+
+	]
 }
+
+

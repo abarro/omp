@@ -9,12 +9,8 @@
 title: Os melhores Podcasts
 email: abarro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Eu amo podcasts. Neste site eu listo o que eu considero ser os melhores episódios.
-  Meu critério do que é um bom episódio: 
-  1- Muda minha visão de mundo.
-  2- Explora a condição humana.
-  3- Me tira um pouco do meu poço de ignorância.
-baseurl: "/omp/" # the subpath of your site, e.g. /blog
+  
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://abarro.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
