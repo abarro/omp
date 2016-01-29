@@ -9,7 +9,7 @@
 title: Os melhores Podcasts
 email: abarro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Os melhores podcasts. Curadoria com episódios de podcasts que você jamais vai esquecer. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abarro.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
