@@ -1,19 +1,24 @@
 {
    "favorites":[
       {
-      	"podcast_id":1,
-         "title":"nome do podcast1",
-         "link":"link do podcast1"
-      },
-      {
-      	"podcast_id":1,
-         "title":"nome do podcast2",
-         "link":"http://www.thisamericanlife.org/"
+         "podcast_id":2,
+         "title":"531 - High and Mighty",
+         "link":"http://snapjudgment.org/high-and-mighty"
       },
       {
          "podcast_id":2,
-         "title":"nome do podcast3",
-         "link":"link do podcast3"
+         "title":"701 - High Crimes and Misdemeanors",
+         "link":"http://snapjudgment.org/high-crimes-and-misdemeanors"
+      },
+      {
+         "podcast_id":2,
+         "title":"702 - Full Circle",
+         "link":"http://snapjudgment.org/full-circle"
+      },
+      {
+      	"podcast_id":4,
+         "title":"What if your sister had five personalities?",
+         "link":"http://misfitrad.io/happening/68"
       }
 
    ]

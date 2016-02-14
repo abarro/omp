@@ -10,7 +10,7 @@
 		"id": 2,
 		"name": "Snap Judgement",
 		"site": "http://snapjudgment.org/",
-		"itunes_link": ""
+		"itunes_link": "https://itunes.apple.com/us/podcast/snap-judgment/id283657561"
 	},
 
 	{
@@ -19,8 +19,12 @@
 		"site": "http://99percentinvisible.org/",
 		"itunes_link": ""
 	},
+	{
+		"id": 4,
+		"name": "This is Actually Happening",
+		"site": "http://misfitrad.io/happening",
+		"itunes_link": "https://itunes.apple.com/br/podcast/this-is-actually-happening/id497227384?mt=2"
+	}
 
 	]
 }
-
-
