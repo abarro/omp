@@ -1,24 +1,116 @@
 {
    "favorites":[
       {
+         "podcast_id":1,
+         "title":"214: Family Physics",
+         "link":"http://www.thisamericanlife.org/radio-archives/episode/214/family-physics",
+         "download_link":"https://itunes.apple.com/us/album/214-family-physics/id343911173?at=11l6oU",
+         "description":"A história de uma família, pais brancos, filho negro. Ele não é adotado.",
+         "tags":"família"
+      },
+      {
+         "podcast_id":1,
+         "title":"577: Something Only I Can See",
+         "link":"http://www.thisamericanlife.org/radio-archives/episode/577/something-only-i-can-see",
+         "download_link":"http://amzn.to/1ZSW9AS",
+         "description":"Simplesmente incrível, não dá pra descrever você precisa ouvir.",
+         "tags":"ciência"
+      },
+      {
+         "podcast_id":1,
+         "title":"581: Anatomy of Doubt",
+         "link":"http://www.thisamericanlife.org/radio-archives/episode/581/anatomy-of-doubt",
+         "download_link":"http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/581.mp3",
+         "description":"Uma história poderosa de como a gente não pode confiar no nosso julgamento.",
+         "tags":"condição humana"
+      },
+      {
          "podcast_id":2,
          "title":"531 - High and Mighty",
-         "link":"http://snapjudgment.org/high-and-mighty"
+         "link":"http://snapjudgment.org/high-and-mighty",
+         "download_link":"",
+         "description":"",
+         "tags":""
+      },
+      {
+         "podcast_id":2,
+         "title":"607 - Infamous",
+         "link":"http://snapjudgment.org/infamous",
+         "download_link":"https://api.soundcloud.com/tracks/196845287/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ",
+         "description":"",
+         "tags":"Música"
       },
       {
          "podcast_id":2,
          "title":"701 - High Crimes and Misdemeanors",
-         "link":"http://snapjudgment.org/high-crimes-and-misdemeanors"
+         "link":"http://snapjudgment.org/high-crimes-and-misdemeanors",
+         "download_link":"",
+         "description":"",
+         "tags":""
       },
       {
          "podcast_id":2,
          "title":"702 - Full Circle",
-         "link":"http://snapjudgment.org/full-circle"
+         "link":"http://snapjudgment.org/full-circle",
+         "download_link":"",
+         "description":"",
+         "tags":""
+      },
+      {
+         "podcast_id":3,
+         "title":"202 - Mojave Phone Booth",
+         "link":"http://99percentinvisible.org/episode/mojave-phone-booth/",
+         "download_link":"",
+         "description":"Uma história curiosa, sobre até onde vai a curiosidade de um homem",
+         "tags":"infraestrutura"
       },
       {
       	"podcast_id":4,
          "title":"What if your sister had five personalities?",
-         "link":"http://misfitrad.io/happening/68"
+         "link":"http://misfitrad.io/happening/68",
+         "download_link":"",
+         "description":"",
+         "tags":""
+      },
+      {
+         "podcast_id":5,
+         "title":"The Interview Master: Cal Fussman and the Power of Listening",
+         "link":"http://fourhourworkweek.com/2016/03/11/the-interview-master-cal-fussman-and-the-power-of-listening/",
+         "download_link":"http://traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Cal_Fussman.mp3",
+         "description":"Talvez o cara mais incrível que você vai ter a oportunidade de ouvir.",
+         "tags":"lições de vida, histórias"
+      },
+      {
+         "podcast_id":5,
+         "title":"Meet “Scorpion,” The Real-Life Santa Claus",
+         "link":"http://fourhourworkweek.com/2016/02/16/scorpion/",
+         "download_link":"http://traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Walter_OBrien.mp3",
+         "description":"No mínimo, interessante.",
+         "tags":"Inteligência, ciência, futuro"
+      },
+      {
+         "podcast_id":6,
+         "title":"56 - Zardulu",
+         "link":"https://gimletmedia.com/episode/zardulu/",
+         "download_link":"https://api.soundcloud.com/tracks/248804077/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ",
+         "description":"Será que alguém está nos manipulando?",
+         "tags":"Mágico"
+      },
+      {
+         "podcast_id":7,
+         "title":"The Living Room",
+         "link":"http://www.radiolab.org/story/living-room/",
+         "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast15thelivingroom.mp3",
+         "description":"Uma das histórias mais poderosas que já ouvi.",
+         "tags":"condição humana"
+      },
+      {
+         "podcast_id":7,
+         "title":"The Rhino Hunter",
+         "link":"http://www.radiolab.org/story/rhino-hunter/",
+         "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast15rhinohunter.mp3",
+         "description":"Nem tudo é do jeito que você pensa",
+         "tags":"condição humana"
       }
 
    ]
