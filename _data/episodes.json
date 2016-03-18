@@ -111,6 +111,14 @@
          "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast15rhinohunter.mp3",
          "description":"Nem tudo é do jeito que você pensa",
          "tags":"condição humana"
+      },
+      {
+         "podcast_id":7,
+         "title":"Galapagos",
+         "link":"http://www.radiolab.org/story/galapagos/",
+         "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab/radiolab071814.mp3",
+         "description":"Um episódio simplesmente lindo",
+         "tags":"condição humana, natureza"
       }
 
    ]
