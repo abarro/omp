@@ -42,6 +42,18 @@
 		"name": "Radiolab",
 		"site": "http://www.radiolab.org",
 		"itunes_link": "https://itunes.apple.com/podcast/radiolab/id152249110?mt=2"
+	},
+	{
+		"id": 8,
+		"name": "Embedded",
+		"site": "http://www.npr.org/series/469833353/embedded",
+		"itunes_link": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?mt=2&id=1091709555"
+	},
+	{
+		"id": 9,
+		"name": "Freakonomics",
+		"site": "http://freakonomics.com/",
+		"itunes_link": "https://itunes.apple.com/us/podcast/freakonomics-radio/id354668519?mt=2"
 	}
 	]
 }
