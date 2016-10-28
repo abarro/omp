@@ -25,6 +25,22 @@
          "tags":"condição humana"
       },
       {
+         "podcast_id":1,
+         "title":"502: This call may be recorded to save your life",
+         "link":"http://www.thisamericanlife.org/radio-archives/episode/502/this-call-may-be-recorded-to-save-your-life",
+         "download_link":"http://www.thisamericanlife.org/radio-archives/episode/502/this-call-may-be-recorded-to-save-your-life#",
+         "description":"Nós vivemos numa bolha. Nem todo mundo tem este luxo.",
+         "tags":"condição humana"
+      },
+      {
+         "podcast_id":1,
+         "title":"560: Abdi and the golden ticket",
+         "link":"http://www.thisamericanlife.org/radio-archives/episode/560/abdi-and-the-golden-ticket",
+         "download_link":"http://www.thisamericanlife.org/radio-archives/episode/560/abdi-and-the-golden-ticket#",
+         "description":"Ganhou na loteria do green card. É só o começo da história.",
+         "tags":"condição humana, histórias"
+      },
+      {
          "podcast_id":2,
          "title":"531 - High and Mighty",
          "link":"http://snapjudgment.org/high-and-mighty",
@@ -65,6 +81,22 @@
          "tags":"histórias"
       },
       {
+         "podcast_id":2,
+         "title":"The Orange",
+         "link":"http://snapjudgment.org/orange",
+         "download_link":"",
+         "description":"O significado de uma simples laranja",
+         "tags":"condição humana, histórias"
+      },
+      {
+         "podcast_id":2,
+         "title":"Man of Steel",
+         "link":"http://snapjudgment.org/man-of-steel",
+         "download_link":"https://api.soundcloud.com/tracks/265104180/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ",
+         "description":"Meu amigo, este cara é bruto",
+         "tags":"condição humana, histórias"
+      },
+      {
          "podcast_id":3,
          "title":"202 - Mojave Phone Booth",
          "link":"http://99percentinvisible.org/episode/mojave-phone-booth/",
@@ -101,8 +133,16 @@
          "title":"56 - Zardulu",
          "link":"https://gimletmedia.com/episode/zardulu/",
          "download_link":"https://api.soundcloud.com/tracks/248804077/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ",
-         "description":"Será que alguém está nos manipulando?",
+         "description":"Ratos adestrados podem estar manipulando você",
          "tags":"Mágico"
+      },
+      {
+         "podcast_id":6,
+         "title":"75 Boy Wonder",
+         "link":"https://gimletmedia.com/episode/75-boy-wonder/",
+         "download_link":"https://api.soundcloud.com/tracks/280865033/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ",
+         "description":"As vezes a cura é aprender a conviver com a doença",
+         "tags":"condição humana"
       },
       {
          "podcast_id":7,
@@ -127,6 +167,22 @@
          "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab/radiolab071814.mp3",
          "description":"Um episódio simplesmente lindo",
          "tags":"condição humana, natureza"
+      },
+      {
+         "podcast_id":7,
+         "title":"Update: Eye in the Sky",
+         "link":"http://www.radiolab.org/story/update-eye-sky/",
+         "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast16eyeinskyupdate.mp3",
+         "description":"O futuro já chegou. Isso não quer dizer que é bom.",
+         "tags":"tecnologia, ciência"
+      },
+      {
+         "podcast_id":7,
+         "title":"From Tree to Shining Tree",
+         "link":"http://www.radiolab.org/story/from-tree-to-shining-tree/",
+         "download_link":"http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast16trees.mp3",
+         "description":"Árvores inteligentes e carnívoras.",
+         "tags":"natureza, ciência"
       }
 
    ]

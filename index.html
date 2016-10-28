@@ -4,6 +4,9 @@ layout: default
 
 <div class="home">
    <h1 class="page-heading">Só os melhores.</h1>
+   <p>Curadoria com podcasts em inglês que você jamais vai esquecer.</p>
+   <br>
+   <h3>Lista de episódios por Podcast</h3>
 	   <a name="episodes"></a>
 	  {% for podcast in site.data.podcasts.podcasts %}
 		<h3><a href="{{ podcast.site }}" target="_blank">{{ podcast.name }}</a></h3>
@@ -16,7 +19,7 @@ layout: default
 		   </ul>	  
 	  {% endfor %}
 	
-	<h1 class="page-heading">Podcasts que ouço e recomendo</h1>
+	<h3>Lista de podcasts que ouço e recomendo</h3>
 	<a name="podcasts"></a>
 	{% for podcast in site.data.podcasts.podcasts %}
 		<ul>

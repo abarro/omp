@@ -54,6 +54,12 @@
 		"name": "Freakonomics",
 		"site": "http://freakonomics.com/",
 		"itunes_link": "https://itunes.apple.com/us/podcast/freakonomics-radio/id354668519?mt=2"
+	},
+	{
+		"id": 10,
+		"name": "Lore",
+		"site": "http://www.lorepodcast.com/",
+		"itunes_link": "https://itunes.apple.com/us/podcast/lore/id978052928?mt=2"
 	}
 	]
 }
